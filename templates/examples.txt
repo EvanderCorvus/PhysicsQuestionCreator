@@ -1,0 +1,10 @@
+Die Halbwertszeit von Strontium-90 beträgt etwa \(29,1\,\mathrm{a}\), die atomare Masse etwa \(89,9\,\mathrm{u}\). Wie groß ist die Aktivität zu dem Zeitpunkt \(t\), bei dem \({m}\,\mathrm{mg}\) Strontium-90 vorhanden sind?
+Ein ruhender Kern zerfällt in ein \(\alpha\)-Teilchen (\(m\approx 4\,\mathrm{u}\)) der Energie \({E}\,\mathrm{eV}\) und einen Tochterkern. Wie groß ist der Impulsbetrag des Tochterkerns in \(\mathrm{kg\frac{m}{s}}\)? (Relativistische Effekte sollen dabei nicht berücksichtigt werden)
+Wenn ein Kern \(_{{Z}}^{{A}}X\) gemäß einem Alpha-Zerfall zerfällt, wie viele Neutronen hat der entstehende Kern dann? (Da \(A\) und \(Z\) hier automatisch generiert werden, wäre ein Kern mit oben genannter Zusammensetzung in Wirklichkeit vermutlich kein Alpha-Strahler.)
+Ein ruhender Atomkern zerfällt in einen Tochterkern der Masse \({m}\,\mathrm{u}\) und ein alpha-Teilchen der Masse \(4\,\mathrm{u}\). Die dabei freigesetzte Energie von etwa \({E}\,\mathrm{MeV}\) geht vollständig in kinetische Energie der Zerfallsprodukte über. Wie groß ist die Geschwindigkeit des alpha-Teilchens? _Hinweis: Impulserhaltungssatz!_
+Wie groß ist der Massendefekt, wenn bei der Bildung eines Kerns aus seinen Nukleonen-Bestandteilen eine Energie von \(E={EB}\,\mathrm{MeV}\) frei wird?
+Ein Stoff zerfalle mit einer Halbwertszeit von {T} Stunden. Nach welcher Zeit ist nur noch das {rest}-fache einer anfänglichen Stoffmenge vorhanden?
+Gegeben sei eine radioaktive Probe. Nach \({x}\) Jahren sind noch \({y}\%\) der Ursprungsmenge übrig. Wie groß ist die Zerfallskonstante des Stoffes?
+Erläutern Sie kurz warum es möglich ist, durch SPALTUNG bzw. FUSION von Atomkernen Energie zu gewinnen. Wie hängt diese Energie mit der Masse der Kerne zusammen?
+Zwei Protonen im Kern spüren sowohl die Coulomb-Abstoßung als auch die anziehende Kernkraft. Das Coulomb-Potential ist gegeben durch \(E_C=\frac{q_1q_2}{4\pi\epsilon_0r}\), das Yukawa-Potential der Kernkraft durch \(E_Y=-E_0\frac{r_0}{r}e^{-r/r_0}\), mit \(E_0=50\,\mathrm{keV}\) und \(r_0=1,5\,\mathrm{fm}\). Bei welchem Abstand \(r\) heben sich die Potentiale auf?
+

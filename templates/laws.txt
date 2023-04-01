@@ -1,0 +1,1 @@
+Massendefekt: E_B = Delta m * c^2, Zerfallsgesetz: N(t) = N_0 exp(-kt), Halbwertszeit: T_H = ln(2)/k, Aktivität: A(t)=k*N(t)

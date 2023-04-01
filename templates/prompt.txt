@@ -1,0 +1,6 @@
+Make a small exercise in german at an introductory level for undergraduate students using up to two the following laws of physics: {laws}.
+The exercises are meant acquaint the students with the equations and how to apply them, as well as test their understanding of undergraduate level physics. Assume that all physical constants are known.
+Here are some examples.
+{examples}
+In addition to the exercise, show what equations are necessary to solve the exercise.
+Exercise:
